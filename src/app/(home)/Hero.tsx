@@ -90,8 +90,8 @@ const Hero = ({}) => {
 								))}
 						</h1>
 						<p className="text-[#fff] text-center font-manrope font-[400] max-w-[600px] text-sm md:text-lg  ">
-							I'm a Videographer & Photographer who specializes in capturing
-							moments that tell compelling stories.
+							{`I'm a Videographer & Photographer who specializes in capturing
+							moments that tell compelling stories.`}
 						</p>
 					</div>
 				</div>
