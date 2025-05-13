@@ -8,64 +8,64 @@ import { motion } from "framer-motion";
 
 const items = [
 	{
+		img: "https://res.cloudinary.com/duoycuhvh/image/upload/v1746790681/BF1016_1_pm0lgf.jpg",
 		title: "A nighttime journey",
 		subtitle: "Art film",
 		year: "2025",
-		img: "/images/1.jpg",
 	},
 	{
+		img: "https://res.cloudinary.com/duoycuhvh/image/upload/v1746790669/BF1018_1_jomtyv.jpg",
 		title: "Dream in motion",
 		subtitle: "Documentary",
 		year: "2024",
-		img: "/images/2.jpg",
 	},
 	{
+		img: "https://res.cloudinary.com/duoycuhvh/image/upload/v1746790668/BF1017_1_ih1fkx.jpg",
 		title: "Shadows & light",
 		subtitle: "Short film",
 		year: "2023",
-		img: "/images/3.jpg",
 	},
 	{
+		img: "https://res.cloudinary.com/duoycuhvh/image/upload/v1746790668/BF1089_1_fv7sxl.jpg",
 		title: "Urban echoes",
 		subtitle: "Street photography",
 		year: "2022",
-		img: "/images/4.jpg",
 	},
 	{
 		title: "Still whispers",
 		subtitle: "Fine art",
 		year: "2021",
-		img: "/images/5.jpg",
+		img: "https://res.cloudinary.com/duoycuhvh/image/upload/v1746790664/BF1012_1_gmzsob.jpg",
 	},
 	{
 		title: "Muted frames",
 		subtitle: "Conceptual",
 		year: "2020",
-		img: "/images/6.jpg",
+		img: "https://res.cloudinary.com/duoycuhvh/image/upload/v1746790661/BF1011_1_bjlrhm.jpg",
 	},
 	{
 		title: "Muted frames",
 		subtitle: "Conceptual",
 		year: "2020",
-		img: "/images/7.jpg",
+		img: "https://res.cloudinary.com/duoycuhvh/image/upload/v1746790660/BF1010_1_bq73q0.jpg",
 	},
 	{
 		title: "Muted frames",
 		subtitle: "Conceptual",
 		year: "2020",
-		img: "/images/8.jpg",
+		img: "https://res.cloudinary.com/duoycuhvh/image/upload/v1746790658/BF1015_1_eifrdc.jpg",
 	},
 	{
 		title: "Muted frames",
 		subtitle: "Conceptual",
 		year: "2020",
-		img: "/images/9.jpg",
+		img: "https://res.cloudinary.com/duoycuhvh/image/upload/v1746790658/BF1013_1_gvsma5.jpg",
 	},
 	{
 		title: "Muted frames",
 		subtitle: "Conceptual",
 		year: "2020",
-		img: "/images/10.jpg",
+		img: "https://res.cloudinary.com/duoycuhvh/image/upload/v1746790655/BF1014_1_se8c4k.jpg",
 	},
 ];
 

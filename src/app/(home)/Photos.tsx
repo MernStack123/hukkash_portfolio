@@ -7,25 +7,29 @@ import { motion } from "framer-motion";
 
 const photoData = [
 	{
-		image: "/images/1.jpg",
+		image:
+			"https://res.cloudinary.com/duoycuhvh/image/upload/v1746790681/BF1016_1_pm0lgf.jpg",
 		title: "A nighttime journey",
 		subtitle: "Art film",
 		year: "2025",
 	},
 	{
-		image: "/images/2.jpg",
+		image:
+			"https://res.cloudinary.com/duoycuhvh/image/upload/v1746790669/BF1018_1_jomtyv.jpg",
 		title: "Dream in motion",
 		subtitle: "Documentary",
 		year: "2024",
 	},
 	{
-		image: "/images/3.jpg",
+		image:
+			"https://res.cloudinary.com/duoycuhvh/image/upload/v1746790668/BF1017_1_ih1fkx.jpg",
 		title: "Shadows & light",
 		subtitle: "Short film",
 		year: "2023",
 	},
 	{
-		image: "/images/4.jpg",
+		image:
+			"https://res.cloudinary.com/duoycuhvh/image/upload/v1746790668/BF1089_1_fv7sxl.jpg",
 		title: "Urban echoes",
 		subtitle: "Street photography",
 		year: "2022",
