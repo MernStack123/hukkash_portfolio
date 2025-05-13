@@ -9,7 +9,7 @@ const Videos = () => {
 			<div className="flex flex-col gap-10 md:gap-14 ">
 				<div>
 					<h1 className="text-[#fff] text-center font-bebas tracking-[1px] text-5xl md:text-7xl  ">
-						<motion.span
+						{/* <motion.span
 							className="inline-block"
 							initial={{ y: 0 }}
 							animate={{ y: [0, -15, 0, 15, 0] }}
@@ -50,7 +50,8 @@ const Videos = () => {
 						>
 							O
 						</motion.span>
-						{"S"}
+						{"S"} */}
+						Videos
 					</h1>
 				</div>
 				<div className="grid grid-cols-1 md:grid-cols-2 gap-6 ">

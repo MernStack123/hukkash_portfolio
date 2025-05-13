@@ -204,7 +204,7 @@ const Photos = () => {
 				{/* Header */}
 				<div>
 					<h1 className="text-[#fff] text-center font-bebas tracking-[1px] text-5xl md:text-7xl">
-						{["P", "H", "O", "T", "O", "S"].map((letter, i) =>
+						{/* {["P", "H", "O", "T", "O", "S"].map((letter, i) =>
 							i % 2 === 0 ? (
 								<motion.div
 									key={i}
@@ -223,7 +223,8 @@ const Photos = () => {
 							) : (
 								<span key={i}>{letter}</span>
 							)
-						)}
+						)} */}
+						Photos
 					</h1>
 				</div>
 
