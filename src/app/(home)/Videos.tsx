@@ -55,7 +55,7 @@ const Videos = () => {
 				</div>
 				<div className="grid grid-cols-1 md:grid-cols-2 gap-6 ">
 					<div className="relative hover:cursor-pointer group overflow-hidden rounded-xl md:rounded-2xl">
-						<div className="absolute left-2 bottom-2 md:left-4 md:bottom-4 z-10">
+						{/* <div className="absolute left-2 bottom-2 md:left-4 md:bottom-4 z-10">
 							<div className="flex flex-col">
 								<span className="text-white font-manrope font-[400] text-base md:text-xl">
 									A nighttime journey
@@ -69,7 +69,7 @@ const Videos = () => {
 							<span className="text-white font-manrope font-[400] text-sm md:text-lg">
 								2025
 							</span>
-						</div>
+						</div> */}
 						<div className="absolute z-10 right-2 top-2 md:right-4 md:top-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
 							<span className="text-white font-manrope font-[400] text-sm md:text-lg">
 								View
@@ -88,7 +88,7 @@ const Videos = () => {
 					</div>
 
 					<div className="relative hover:cursor-pointer group overflow-hidden rounded-xl md:rounded-2xl">
-						<div className="absolute left-2 bottom-2 md:left-4 md:bottom-4 z-10">
+						{/* <div className="absolute left-2 bottom-2 md:left-4 md:bottom-4 z-10">
 							<div className="flex flex-col">
 								<span className="text-white font-manrope font-[400] text-base md:text-xl">
 									A nighttime journey
@@ -102,7 +102,7 @@ const Videos = () => {
 							<span className="text-white font-manrope font-[400] text-sm md:text-lg">
 								2025
 							</span>
-						</div>
+						</div> */}
 						<div className="absolute z-10 right-2 top-2 md:right-4 md:top-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
 							<span className="text-white font-manrope font-[400] text-sm md:text-lg">
 								View
@@ -120,7 +120,7 @@ const Videos = () => {
 						/>
 					</div>
 					<div className="relative hover:cursor-pointer group overflow-hidden rounded-xl md:rounded-2xl">
-						<div className="absolute left-2 bottom-2 md:left-4 md:bottom-4 z-10">
+						{/* <div className="absolute left-2 bottom-2 md:left-4 md:bottom-4 z-10">
 							<div className="flex flex-col">
 								<span className="text-white font-manrope font-[400] text-base md:text-xl">
 									A nighttime journey
@@ -134,7 +134,7 @@ const Videos = () => {
 							<span className="text-white font-manrope font-[400] text-sm md:text-lg">
 								2025
 							</span>
-						</div>
+						</div> */}
 						<div className="absolute z-10 right-2 top-2 md:right-4 md:top-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
 							<span className="text-white font-manrope font-[400] text-sm md:text-lg">
 								View
@@ -152,7 +152,7 @@ const Videos = () => {
 						/>
 					</div>
 					<div className="relative hover:cursor-pointer group overflow-hidden rounded-xl md:rounded-2xl">
-						<div className="absolute left-2 bottom-2 md:left-4 md:bottom-4 z-10">
+						{/* <div className="absolute left-2 bottom-2 md:left-4 md:bottom-4 z-10">
 							<div className="flex flex-col">
 								<span className="text-white font-manrope font-[400] text-base md:text-xl">
 									A nighttime journey
@@ -166,7 +166,7 @@ const Videos = () => {
 							<span className="text-white font-manrope font-[400] text-sm md:text-lg">
 								2025
 							</span>
-						</div>
+						</div> */}
 						<div className="absolute z-10 right-2 top-2 md:right-4 md:top-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
 							<span className="text-white font-manrope font-[400] text-sm md:text-lg">
 								View

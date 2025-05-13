@@ -107,7 +107,7 @@ const Videos = () => {
 							data-aos={layout === "one" ? "fade-up" : ""}
 							data-aos-delay={layout === "one" ? index * 100 : 0}
 						>
-							<div className="absolute left-3 bottom-3 md:left-6 md:bottom-6 z-10">
+							{/* <div className="absolute left-3 bottom-3 md:left-6 md:bottom-6 z-10">
 								<div className="flex flex-col">
 									<span className="text-white font-manrope font-[400] text-base md:text-xl">
 										{item.title}
@@ -116,13 +116,13 @@ const Videos = () => {
 										{item.subtitle}
 									</span>
 								</div>
-							</div>
+							</div> */}
 
-							<div className="absolute z-10 right-3 bottom-3 md:right-6 md:bottom-6">
+							{/* <div className="absolute z-10 right-3 bottom-3 md:right-6 md:bottom-6">
 								<span className="text-white font-manrope font-[400] text-sm md:text-lg">
 									{item.year}
 								</span>
-							</div>
+							</div> */}
 
 							<div className="absolute z-10 right-3 top-3 md:right-6 md:top-6 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
 								<span className="text-white font-manrope font-[400] text-sm md:text-lg">

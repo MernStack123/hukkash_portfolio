@@ -107,7 +107,7 @@ const Photos = () => {
 							</div>
 
 							{/* Left bottom text */}
-							<div className="absolute left-3 bottom-3 md:left-6 md:bottom-6 z-10">
+							{/* <div className="absolute left-3 bottom-3 md:left-6 md:bottom-6 z-10">
 								<div className="flex flex-col">
 									<span className="text-white font-manrope font-[400] text-base md:text-xl">
 										{item.title}
@@ -116,14 +116,14 @@ const Photos = () => {
 										{item.subtitle}
 									</span>
 								</div>
-							</div>
+							</div> */}
 
 							{/* Right bottom year */}
-							<div className="absolute z-10 right-3 bottom-3 md:right-6 md:bottom-6">
+							{/* <div className="absolute z-10 right-3 bottom-3 md:right-6 md:bottom-6">
 								<span className="text-white font-manrope font-[400] text-sm md:text-lg">
 									{item.year}
 								</span>
-							</div>
+							</div> */}
 
 							{/* Top right "View" */}
 							<div className="absolute z-10 right-3 top-3 md:right-6 md:top-6 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
