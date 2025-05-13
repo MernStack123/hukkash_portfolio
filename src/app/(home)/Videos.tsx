@@ -2,7 +2,7 @@
 import { ArrowRight } from "lucide-react";
 import Link from "next/link";
 import React from "react";
-import { motion } from "framer-motion";
+// import { motion } from "framer-motion";
 const Videos = () => {
 	return (
 		<section className="w-full h-full bg-[#0a0a0a] py-24 md:py-40 px-4 md:px-40 ">

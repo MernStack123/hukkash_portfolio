@@ -164,7 +164,7 @@ import { ArrowRight } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
-import { motion } from "framer-motion";
+// import { motion } from "framer-motion";
 
 const photoData = [
 	{
