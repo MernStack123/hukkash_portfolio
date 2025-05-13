@@ -17,11 +17,7 @@ export default {
 					"system-ui",
 					"sans-serif",
 				],
-				mono: ["var(--font-geist-mono)", "monospace"],
-				epilogue: ["var(--font-epilogue)", "sans-serif"],
-				redHat: ["var(--font-red_hat_display)", "sans-serif"],
-				abel: ["var(--font-abel)", "sans-serif"],
-				inter: ["var(--font-inter)", "sans-serif"],
+
 				bebas: ["var(--font-bebas)", "sans-serif"],
 				manrope: ["var(--font-manrope)", "sans-serif"],
 			},
