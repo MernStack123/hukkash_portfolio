@@ -41,10 +41,18 @@ const About = () => {
 						About me
 					</h1>
 					<p className="text-[#696969] font-manrope text-base md:text-xl font-[400] text-center max-w-[600px] ">
-						Hi, I’m Hukkash, a passionate videographer and photographer with
-						over 6 years of experience behind the lens. My love for storytelling
-						through visuals has taken me on an incredible journey, capturing
-						moments, emotions, and stories that leave lasting impressions.
+						Hi, I’m Hukkash. I’m a videographer and photographer with over 6
+						years of hands-on experience. I’ve always been drawn to visuals —
+						the way a single frame can hold so much feeling. Over the years,
+						that interest turned into a full-time passion, and I’ve been lucky
+						to work on a variety of projects that let me do what I love. I enjoy
+						both working independently and being part of a creative team. Even
+						when I’ve had only a short time with a team, I’ve found that great
+						results come from good collaboration and clear communication. I’m
+						someone who brings consistency, attention to detail, and a calm,
+						focused energy to every shoot. For me, it’s simple — I love
+						capturing moments that matter and creating visuals people can
+						connect with.
 					</p>
 				</motion.div>
 				<div className="px-4 flex justify-center items-center">
