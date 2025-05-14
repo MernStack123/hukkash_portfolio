@@ -80,7 +80,7 @@ const Videos = () => {
 						<video
 							className="min-h-full min-w-full object-cover"
 							style={{ objectPosition: "center" }}
-							src="/videos/1.mp4"
+							src="/videos/6.mp4"
 							autoPlay
 							loop
 							muted

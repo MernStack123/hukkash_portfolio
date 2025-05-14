@@ -29,7 +29,7 @@ const About: React.FC = () => {
 					<video
 						className="min-h-full min-w-full object-cover rounded-xl  md:rounded-2xl"
 						style={{ objectPosition: "center" }}
-						src="/videos/about.mp4"
+						src="/videos/1.mp4"
 						autoPlay
 						loop
 						muted
